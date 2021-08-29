@@ -1,0 +1,41 @@
+body {
+    border: 5px solid black;
+    background: lightgrey;
+}
+
+.container {
+    padding: 1px;
+    background: white;
+    text-align left: 1cm;
+}
+
+.header {
+    text;
+    justify-content: space-between;
+}
+
+table,
+td,
+th {
+    border: 1px solid rgb(105, 105, 105);
+    padding: 2px;
+    border-collapse: collapse;
+}
+
+th {
+    background: rgb(231, 227, 227);
+}
+
+h2 {
+    background: rgba(218, 247, 253, 0.993);
+    padding-right: 10%;
+}
+
+.details {
+    background: white;
+}
+
+h4 {
+    align-content: left;
+    padding-left: 1.5px;
+}
